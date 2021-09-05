@@ -1,0 +1,7 @@
+{
+  "libraryName": "turboModule",
+  "outputDirectory": "./lib/cpp-generated",
+  "moduleSpecName": "turboModuleSpec",
+  "generators": ["modulesIOS"],
+  "inputFile": "./src/TurboModule.ts"
+}
