@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "description": "practice makes perfect",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "react-native-tscodegen": "^0.68.4",
+    "react-native-tscodegen-types": "^0.67.3"
+  }
 }
